@@ -1,0 +1,47 @@
+[
+  {
+    "imgPath": "assets/images/starbucks.png",
+    "name": "Caffe Misto",
+    "brand": "Coffeshop",
+    "description": "Our dark, rich espresso balanced with steamed milk and a layer of foam",
+    "price": 4.99,
+    "currency": "$",
+    "isFavorite" : true
+  },
+  {
+    "imgPath": "assets/images/starbucks2.png",
+    "name": "Caffe Latte",
+    "brand": "Kahve Dunyasi",
+    "description": "Rich, full-bodied espresso with bittersweet milk saucde and steamed milk",
+    "price": 3.99,
+    "currency": "$",
+    "isFavorite" : false
+  },
+  {
+    "imgPath": "assets/images/coffee1.png",
+    "name": "Cappucino",
+    "brand": "Gloria Jeans",
+    "description": "Our dark, rich espresso balanced with steamed milk and a layer of foam",
+    "price": 5.99,
+    "currency": "$",
+    "isFavorite" : false
+  },
+  {
+    "imgPath": "assets/images/coffee2.png",
+    "name": "Macchiato",
+    "brand": "BrownHouse",
+    "description": "Rich, full-bodied espresso with bittersweet milk saucde and steamed milk",
+    "price": 3.99,
+    "currency": "",
+    "isFavorite" : false
+  },
+  {
+    "imgPath": "assets/images/coffee1.png",
+    "name": "Turk Coffee",
+    "brand": "Kahve Dunyasi",
+    "description": "Rich, full-bodied espresso with bittersweet milk saucde and steamed milk",
+    "price": 3.99,
+    "currency": "",
+    "isFavorite" : false
+  }
+]

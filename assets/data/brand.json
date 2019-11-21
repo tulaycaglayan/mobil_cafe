@@ -1,0 +1,62 @@
+[
+  {
+    "name" : "Gloria Jeans",
+    "logo" : "assets/images/brand1.png",
+    "description" : "Gloria Jeans"
+  },
+  {
+    "name" : "StarBucks",
+    "logo" : "assets/images/brand2.png",
+    "description" : "StarBucks"
+  },
+  {
+    "name" : "Second Cup",
+    "logo" : "assets/images/brand3.png",
+    "description" : "Second Cup"
+  },
+  {
+    "name" : "Kahve Dunyasi",
+    "logo" : "assets/images/brand4.png",
+    "description" : "Kahve Dunyasi"
+  },
+  {
+    "name" : "Dristor Kebap",
+    "logo" : "assets/images/brand5.png",
+    "description" : "Dristor Kebap"
+  },
+  {
+    "name" : "Divan Sofra",
+    "logo" : "assets/images/brand6.png",
+    "description" : "Divan Sofra"
+  },
+  {
+    "name" : "Gloria Jeans",
+    "logo" : "assets/images/brand1.png",
+    "description" : "Gloria Jeans"
+  },
+  {
+    "name" : "StarBucks",
+    "logo" : "assets/images/brand2.png",
+    "description" : "StarBucks"
+  },
+  {
+    "name" : "Second Cup",
+    "logo" : "assets/images/brand3.png",
+    "description" : "Second Cup"
+  },
+  {
+    "name" : "Kahve Dunyasi",
+    "logo" : "assets/images/brand4.png",
+    "description" : "Kahve Dunyasi"
+  },
+  {
+    "name" : "Dristor Kebap",
+    "logo" : "assets/images/brand5.png",
+    "description" : "Dristor Kebap"
+  },
+  {
+    "name" : "Divan Sofra",
+    "logo" : "assets/images/brand6.png",
+    "description" : "Divan Sofra"
+  }
+]
